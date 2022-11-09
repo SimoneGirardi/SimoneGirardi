@@ -1,7 +1,6 @@
-#####################
+
 ##  Hi! My name is ##
 ##  Simone Girardi ##
-#####################
 
 I'm a Experimental Physic student @ the university of Trento.
 
