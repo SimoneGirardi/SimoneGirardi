@@ -1,7 +1,7 @@
 
 #  Hi! My name is Simone Girardi
 
-I'm a Physics student @ the university of Trento.
+I'm a **Physics** student @ the University of Trento.
 Currently I'm studying Experimental Physics and advanced Electronics.
 I've got my bachelor degree in september 2022, for which I did a thesis regarding the [Chua's Chaotic Circuit](https://www.youtube.com/watch?v=xm3YgoEiEDc) (feel free to check it out!).
 
